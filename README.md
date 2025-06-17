@@ -20,7 +20,7 @@
                 <label for="">Full Name:</label>
                 <input type="text" required placeholder="Enter your Full Name">
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for="">Email Address:</label>
@@ -37,7 +37,7 @@
                 <label for="">Phone Number:</label>
                 <input type="tel" required pattern="[0-9]{10}" placeholder="Enter your Phone Number">
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for="">Date Of Birth:</label>
@@ -51,7 +51,7 @@
                 <input type="radio" checked name="Gender:">FEMALE
                 <input type="radio" checked name="Gender:">OTHER
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for="">COURSE:</label>
@@ -63,7 +63,7 @@
                 </select>
                 
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for="">Prefered Timing</label>
@@ -71,18 +71,18 @@
                 <input type="checkbox" name="afternoon">Afternoon
                 <input type="checkbox" name="evening">Evening
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for="">Comment Box</label>
                 <input type="textarea" rows="4" placeholder="Enter Your Comment Here">
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <label for=""></label>
             </td>
-        </tr>
+        </tr><br>
         <tr>
             <td>
                 <center>
@@ -90,7 +90,7 @@
                 <button type="reset">RESET</button>
                 </center>
             </td>
-        </tr>
+        </tr><br>
 
     </table>
     </form>
